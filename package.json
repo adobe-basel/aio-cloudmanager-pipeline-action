@@ -29,7 +29,7 @@
     "@adobe/aio-lib-cloudmanager": "2.0.0",
     "@adobe/aio-lib-ims": "6.0.1",
     "halfred": "2.0.0",
-    "jsonwebtoken": "8.5.1"
+    "jsonwebtoken": "9.0.0"
   },
   "devDependencies": {
     "@adobe/eslint-config-aio-lib-config": "2.0.0",
